@@ -1,0 +1,37 @@
+.firstSec{
+   
+    background-color: #2b2b2b;
+    width: 100%;
+}
+.firstBox{
+    width: 1350px;
+    height: 900px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.right{
+    img{
+        width: 600px;
+    }
+}
+.left{
+    width: 600px;
+    color: white;
+    h1{
+        font-size: 100px;
+        
+        span{
+            color: #7d1eff;
+        }
+    }
+    p{
+        color: #afaaaa;
+        padding: 30px 0px;
+    }
+    h4{
+        font-size: 30px;
+        padding: 20px 0px;
+    }
+}

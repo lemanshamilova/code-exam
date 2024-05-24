@@ -1,0 +1,28 @@
+.bottom-side{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    .counter{
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        span{
+            font-size: 32px;
+        }
+        button{
+            padding: 10px;
+            width: 60px;
+            font-size: 22px;
+            border: none;
+            border-radius: 10px;
+            box-shadow: 1px 1px 10px rgb(54, 53, 53);
+        }
+    }
+
+}
+.trash{
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}

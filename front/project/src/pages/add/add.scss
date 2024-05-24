@@ -1,0 +1,28 @@
+.tableImage{
+    width: 200px;
+}
+.addPage{
+    form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 50px;
+        input{
+            padding: 20px;
+            width: 600px;
+            font-size: 22px;
+            margin-top: 10px;
+        }
+        button{
+            padding: 16px;
+            font-size: 22px;
+            width: 200px;
+            margin-top: 10px;
+            border-radius: 10px;
+            background-color: blueviolet;
+            color: white;
+            box-shadow: 1px 1px 10px rgb(63, 61, 61);
+
+        }
+    }
+}
